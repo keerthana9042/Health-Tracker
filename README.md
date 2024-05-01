@@ -30,3 +30,13 @@ Django(Python)
 FrontEnd Design and Styling
 
 CSS-preprocessor(Sass,Less)
+
+# FOOD  NUTRITION TRACKING 
+Food calorie monitoring is a practice of tracking and managing one's daily caloric intake to achieve specific health or dietary goals. It involves keeping a record of the calories consumed through food and beverages, typically with the aim of controlling or maintaining body weight, improving overall health, or achieving specific fitness objectives. 
+
+![image](https://github.com/keerthana9042/Health-Tracker/assets/143820206/76eeb68b-a5b4-4088-9955-da893b3d7289)
+
+# BODY MASS INDEX
+BODY MASS INDEX (BMI):Body Mass Index (BMI) monitoring is a method used to estimate an individual's body weight in relation to their height. It's calculated by dividing a person's weight in kilograms by the square of their height in meters (BMI = weight (kg) / (height (m) * height (m)).Healthcare professionals use BMI for initial assessments, and many individuals use it for self-monitoring and tracking changes in their body weight and overall health over time. While BMI is a helpful tool, it should be interpreted cautiously, and additional assessments may be necessary to obtain a more comprehensive understanding.
+
+![image](https://github.com/keerthana9042/Health-Tracker/assets/143820206/f9f0c033-b0aa-46da-846e-f022618848ce)
