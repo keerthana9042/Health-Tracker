@@ -17,8 +17,16 @@ Today, maintaining a healthy lifestyle often feels like a complex puzzle. From m
 
 # TOOLS AND SOFTWARE USED
 
+Web Development Frameworks
 
+Django (Python)
 
+MySQL 
 
+Backend Server
 
+Django(Python)
 
+FrontEnd Design and Styling
+
+CSS-preprocessor(Sass,Less)
