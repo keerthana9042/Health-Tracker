@@ -40,3 +40,7 @@ Food calorie monitoring is a practice of tracking and managing one's daily calor
 BODY MASS INDEX (BMI):Body Mass Index (BMI) monitoring is a method used to estimate an individual's body weight in relation to their height. It's calculated by dividing a person's weight in kilograms by the square of their height in meters (BMI = weight (kg) / (height (m) * height (m)).Healthcare professionals use BMI for initial assessments, and many individuals use it for self-monitoring and tracking changes in their body weight and overall health over time. While BMI is a helpful tool, it should be interpreted cautiously, and additional assessments may be necessary to obtain a more comprehensive understanding.
 
 ![image](https://github.com/keerthana9042/Health-Tracker/assets/143820206/f9f0c033-b0aa-46da-846e-f022618848ce)
+
+# PROTOTYPE VIDEO
+
+
