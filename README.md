@@ -41,6 +41,12 @@ BODY MASS INDEX (BMI):Body Mass Index (BMI) monitoring is a method used to estim
 
 ![image](https://github.com/keerthana9042/Health-Tracker/assets/143820206/f9f0c033-b0aa-46da-846e-f022618848ce)
 
-# PROTOTYPE VIDEO
+
+# PROYOTYPE VIDEO
+
+https://github.com/keerthana9042/Health-Tracker/assets/143820206/3ec49281-bede-4b2d-be79-198ce449bea2
+
+# CONCLUSION
+In conclusion, the development and utilization of a health tracking website have proven to be a valuable tool in promoting overall well-being and health awareness. This platform offers individuals the opportunity to take an active role in monitoring their health, making informed decisions, and leading healthier lives.The website's key features, such as personalized health profiles, real-time data tracking, and insightful analytics, have empowered users to set and achieve their health goals. By providing a centralized hub for recording and visualizing various health metrics, it encourages accountability and motivation for sustained lifestyle improvements.
 
 
